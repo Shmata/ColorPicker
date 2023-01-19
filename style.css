@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Vazir;
+  src: url('./assets/Vazir.ttf');
+}
+
+body {
+  direction: rtl;
+}
+
+* {
+  font-family: Vazir;
+  font-size: 18px;
+}
+
+#box {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+  background-color: Silver;
+}
